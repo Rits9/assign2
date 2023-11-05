@@ -1,0 +1,25 @@
+h1{
+ 
+  
+  font-family: georgia;
+ 
+
+  font-size: 300%;
+  text-align:center;
+
+}
+img{
+  width: 350px;
+  height: 300px;
+  margin-left: 20px;   /* Horizontal Space */
+  margin-top: 20px;  /* Vertical Space */
+  border: 3px solid black;
+}
+.menu{
+  text-align: right;
+}
+nav ul li{
+  display:inline-block;
+  margin:0 10px;
+
+}
